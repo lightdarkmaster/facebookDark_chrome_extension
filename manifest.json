@@ -1,0 +1,18 @@
+{
+    "manifest_version": 3,
+    "name": "My Background",
+    "description": "Change my Background color in my google",
+    "version": "1.0",
+    "icons": {
+      "16": "img/icon16.jpg",
+      "48": "img/icon48.png",
+      "128": "img/icon128.png"
+    },
+    "content_scripts": [
+      {
+        "matches": ["https://www.google.com/*"],
+        "css": ["main.css"]
+      }
+    ]
+  }
+  

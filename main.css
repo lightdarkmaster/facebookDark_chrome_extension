@@ -1,0 +1,12 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 100;   
+}
+body{
+    background: linear-gradient(to bottom right, yellow, red) !important;
+}
+button{
+    background: red !important;
+    color: blue;
+    font-weight: 500;
+}
