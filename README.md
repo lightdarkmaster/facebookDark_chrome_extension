@@ -23,3 +23,6 @@ The extension requires permission to access Facebook.com to modify the appearanc
 
 Feedback and Support:
 We value your feedback! If you encounter any issues or have suggestions for improvements, please contact us at [support email] or visit our support page [link to support page].
+
+
+------ nothing follows -----------
