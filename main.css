@@ -1,12 +1,50 @@
 *{
     font-family: Georgia, 'Times New Roman', Times, serif;
-    font-weight: 100;   
+    font-weight: 500; 
+    color: white !important;  
+}
+svg{
+    color: black !important;
 }
 body{
-    background: linear-gradient(to bottom right, yellow, red) !important;
+    background: rgb(0, 0, 0) !important;
 }
 button{
-    background: red !important;
+    background: black !important;
     color: blue;
-    font-weight: 500;
+    font-weight: 500;   
+}
+._42ft{
+    background: black !important;
+}
+._8esk{
+    background: black !important;
+    color: white !important;
+    border-radius: 10px;
+    border: 3px solid lightgreen;
+    width: 100%;
+}
+._8esj{
+    background:black !important;
+}
+._8eso{
+    color: white !important;
+}
+.xuk3077{
+    background: black !important;
+}
+.x9f619{
+    background: url('https://www.wallpaperuse.com/wallp/19-196024_m.jpg') !important;
+}
+.x1e558r4{
+    background: black !important;
+}
+.xi81zsa{
+    color: black !important;
+}
+.x19dipnz{
+    color: steelblue !important;
+}
+.x78zum5 {
+    color: black !important;
 }

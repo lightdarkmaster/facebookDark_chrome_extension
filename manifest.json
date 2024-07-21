@@ -1,16 +1,16 @@
 {
     "manifest_version": 3,
-    "name": "My Background",
-    "description": "Change my Background color in my google",
+    "name": "Facebook DarkMode",
+    "description": "Change my Background color in my facebook",
     "version": "1.0",
     "icons": {
-      "16": "img/icon16.jpg",
+      "16": "img/icon16.png",
       "48": "img/icon48.png",
       "128": "img/icon128.png"
     },
     "content_scripts": [
       {
-        "matches": ["https://www.google.com/*"],
+        "matches": ["https://www.facebook.com/*"],
         "css": ["main.css"]
       }
     ]
