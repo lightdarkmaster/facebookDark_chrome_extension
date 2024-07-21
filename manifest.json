@@ -1,7 +1,7 @@
 {
     "manifest_version": 3,
     "name": "Facebook DarkMode",
-    "description": "Change my Background color in my facebook",
+    "description": "Allow darkmode in facebook web.",
     "version": "1.0",
     "icons": {
       "16": "img/icon16.png",
