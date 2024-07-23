@@ -2,6 +2,7 @@
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-weight: 500; 
     color: white !important;  
+    padding: 0;
 }
 svg{
     color: black !important;
