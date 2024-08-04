@@ -6,7 +6,7 @@
     background: black !important;
 }
 svg{
-    color: black !important;
+    color: white !important;
 }
 body{
     background: rgb(0, 0, 0) !important;
@@ -44,16 +44,17 @@ button{
     fill: white;
 }
 .x9f619, .x1n2onr6, .x1ja2u2z, .x78zum5, .xdt5ytf, .x2lah0s, .x193iq5w, .xeuugli, .x150jy0e, .x1e558r4, .x10b6aqq, .x1yrsyyn{
-    background: transparent;
-}
-i{
-    background: white !important;
-    color: white;
-    fill: white;
+    background: black !important;
 }
 .x3nfvp2{
     background: transparent;
 }
 .x9f619, .x1n2onr6, .x1ja2u2z, .x78zum5, .xdt5ytf, .x193iq5w, .x1l7klhg, .x1iyjqo2, .xs83m0k, .x2lwn1j{
     background: transparent !important;
+}
+.x6s0dn4 .x78zum5, .x1q0g3np, .x2lah0s, .xozqiw3, .xexx8yu, .x18d9i69, .x4uap5, .xkhd6sd, .x1fmh03i, .x47corl{
+    color: white;
+}
+.x1ey2m1c, .x10l6tqk, .x1d8287x, .x6o7n8i, .xl405pv, .xh8yej3, .x11uqc5h, .x6s0dn4, .xzt5al7, .x78zum5, .x1q0g3np{
+    color: white;
 }
