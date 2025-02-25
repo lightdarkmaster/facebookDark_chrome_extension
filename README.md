@@ -14,6 +14,7 @@ Transform your Facebook browsing experience with the Facebook Dark Mode Extensio
 
 # Notice
 1. this is still under development no specific release date specified.
+2. Need to fix a lot of classes still needs improvements.
 
 # Feedback and Support:
 We value your feedback! If you encounter any issues or have suggestions for improvements, please contact us at skywalkerchan96@gmail.com or visit our support page [link to support page].
